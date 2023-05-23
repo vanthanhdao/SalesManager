@@ -1,0 +1,14 @@
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\bin\Debug\Quanlyphongtro.exe.config
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\bin\Debug\Quanlyphongtro.exe
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\bin\Debug\Quanlyphongtro.pdb
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.csproj.AssemblyReference.cache
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.csproj.SuggestedBindingRedirects.cache
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.Properties.Resources.resources
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.csproj.GenerateResource.cache
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.csproj.CoreCompileInputs.cache
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.exe
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.pdb
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.Login.resources
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.HomeUser.resources
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\bin\Debug\Guna.UI2.dll
+D:\Nam 3\HK3\LTWin\Quanlyphongtro\obj\Debug\Quanlyphongtro.csproj.CopyComplete
